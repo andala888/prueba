@@ -1,2 +1,2 @@
 # prueba
-mi primer repositorio
+Hola, soy Andrii, y este mi primer repositorio
